@@ -44,7 +44,7 @@ def ask_llm(user_message):
     ]
     #First request to Gemini
     response=client.models.generate_content(
-        model="gemin-3.5-flash-lite",
+        model="gemini-3.5-flash-lite",
         contents=contents,
         config=types.GenerateContentConfig(
             tools=[weather_tool]
