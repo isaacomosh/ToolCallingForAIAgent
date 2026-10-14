@@ -7,3 +7,5 @@ Instaead of relying entirely on its training data, the LLM can access external f
 Features
 LLM Intergration- Connects to a language model for natural language understanding and generation
 Tool calling Enables the model to select and invoke predefined functions
+Function Execution Executes tool calls in Python
+Tool result Handling Sends executionresults back to the LLM for interpretation
