@@ -18,3 +18,9 @@ The application follows this workflow
 3.The LLM decides whether a tool is needed
 4.The application executes the selected tool with the provided arguments
 5.The tool returns its result to the LLM
+Technologies Used
+Python
+Large Language Nodel API
+Function or tool calling
+REST AOIs
+Environment variables
