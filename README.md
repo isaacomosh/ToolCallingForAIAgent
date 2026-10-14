@@ -9,3 +9,12 @@ LLM Intergration- Connects to a language model for natural language understandin
 Tool calling Enables the model to select and invoke predefined functions
 Function Execution Executes tool calls in Python
 Tool result Handling Sends executionresults back to the LLM for interpretation
+Error handling Handles invalid  inputs and tool  execution errors
+
+How it Works
+The application follows this workflow
+1.The user submits a prompt
+2.The LLM analyzes the request
+3.The LLM decides whether a tool is needed
+4.The application executes the selected tool with the provided arguments
+5.The tool returns its result to the LLM
