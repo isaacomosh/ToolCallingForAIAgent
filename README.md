@@ -24,3 +24,8 @@ Large Language Nodel API
 Function or tool calling
 REST AOIs
 Environment variables
+Future Implementations
+Intergrate external REST APIs
+Add database query tools
+Add supabase
+Support multiple tools in one conversation
