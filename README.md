@@ -23,6 +23,7 @@ Python
 Large Language Nodel API
 Function or tool calling
 REST AOIs
+User canadd
 Environment variables
 Future Implementations
 Intergrate external REST APIs
