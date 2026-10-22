@@ -28,5 +28,5 @@ Environment variables
 Future Implementation
 Intergrate external REST APIs
 Add database query tools
-Add supabase
+Add supabases
 Support multiple tools in one conversation
