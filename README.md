@@ -25,7 +25,7 @@ Function or tool calling
 REST AOIs
 User canadd
 Environment variables
-Future Implementations
+Future Implementation
 Intergrate external REST APIs
 Add database query tools
 Add supabase
