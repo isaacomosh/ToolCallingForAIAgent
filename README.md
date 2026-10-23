@@ -8,7 +8,7 @@ Features and process
 LLM Intergration- Connects to a language model for natural language understanding and generation
 Tool calling Enables the model to select and invoke predefined functions
 Function Execution Executes tool calls in Python
-Tool result Handling Sends executionresults back to the LLM for interpretation
+Tool result Handling Sends executionresults back to the LLM for interpretations
 Error handling Handles invalid  inputs and tool  execution errors
 
 How it Works
