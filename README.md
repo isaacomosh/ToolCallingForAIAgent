@@ -29,4 +29,4 @@ Future Implementation
 Intergrate external REST APIs
 Add database query tools
 Add supabases
-Support multiple tools in one conversation
+Support multiple tools in one conversation.
