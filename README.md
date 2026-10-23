@@ -5,7 +5,7 @@ This project demonstrates how an LLM can identify when a user request requires a
 Instaead of relying entirely on its training data, the LLM can access external functionality and  real time information through predefined tools
 
 Features and process
-LLM Intergration- Connects to a language model for natural language understanding and generation
+LLM Intergration- Connects to a language model for natural language understanding and generation.
 Tool calling Enables the model to select and invoke predefined functions
 Function Execution Executes tool calls in Python.
 Tool result Handling Sends executionresults back to the LLM for interpretations.
